@@ -3,8 +3,8 @@ const { OAuth2 } = google.auth;
 
 // Configure OAuth2 client
 const oAuth2Client = new OAuth2(
-  '1033016630558-fgpjj7iqckgpbrrmavtt5rmm48ivev1i.apps.googleusercontent.com',
-  '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',
+  'YOUR_CLIENT_ID',
+  'YOUR_CLIENT_SECRET',
   'YOUR_REDIRECT_URL'
 );
 
